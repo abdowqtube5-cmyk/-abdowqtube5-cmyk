@@ -1,8 +1,16 @@
-# مرحباً، أنا عبدو 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Flutter+Developer+%F0%9F%93%B1;Content+Creator+%F0%9F%8E%AC;Video+Editor+%F0%9F%8E%AC;Multi-Language+Developer+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=%3C%2F%7B+HELLO+CODEC+%7D%3E" alt="Hello Codec" />
+  </h1>
+  
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+
+<br>
+
+# مرحباً، أنا عبدو 👋
 
 ## 🚀 عني
 
