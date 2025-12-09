@@ -10,12 +10,14 @@
 
 <br>
 
-# Hi there, I'm Abdow 👋
+# Hi there, I'm Abdo 👋
 
 ## 🚀 About Me
 
 - 📱 Professional **Flutter** Developer
 - 💻 Learning multiple programming languages: **C#**, **JavaScript**, **Python**, **PHP**
+- 🎓 Studying **Network Engineering** at the Higher Institute of Computer Technology
+- 🌐 Experienced in **Enterprise Network Administration** & Services: **DHCP**, **DNS**, **WDS**, **WSUS**
 - 🎬 Expert Video Editor using **CapCut** & **DaVinci Resolve**
 - 🎥 **YouTube** Content Creator - Sharing my knowledge and experience with the community
 - 📍 From **Damascus, Syria** 🇸🇾
