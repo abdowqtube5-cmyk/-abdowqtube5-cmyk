@@ -10,26 +10,26 @@
 
 <br>
 
-# مرحباً، أنا عبدو 👋
+# Hi there, I'm Abdow 👋
 
-## 🚀 عني
+## 🚀 About Me
 
-- 📱 مطور تطبيقات **Flutter** محترف
-- 💻 متعلم لغات برمجة متعددة: **C#**, **JavaScript**, **Python**, **PHP**
-- 🎬 خبير مونتاج باستخدام **CapCut** و **DaVinci Resolve**
-- 🎥 صانع محتوى على **YouTube** - أشارك معرفتي وخبراتي مع المجتمع
-- 📍 من **دمشق، سوريا** 🇸🇾
-- 🌱 دائماً أتعلم تقنيات جديدة وأطور مهاراتي
+- 📱 Professional **Flutter** Developer
+- 💻 Learning multiple programming languages: **C#**, **JavaScript**, **Python**, **PHP**
+- 🎬 Expert Video Editor using **CapCut** & **DaVinci Resolve**
+- 🎥 **YouTube** Content Creator - Sharing my knowledge and experience with the community
+- 📍 From **Damascus, Syria** 🇸🇾
+- 🌱 Always learning new technologies and improving my skills
 
-## 🎯 المشاريع
+## 🎯 Projects
 
-🔭 حالياً أعمل على عدة مشاريع بـ Flutter ومشاريع أخرى متنوعة
+🔭 Currently working on several Flutter projects and other diverse projects
 
-💡 أحب بناء تطبيقات تحل مشاكل حقيقية وتقدم تجربة مستخدم رائعة
+💡 I love building apps that solve real problems and provide great user experience
 
-## 🛠️ التقنيات والأدوات
+## 🛠️ Technologies & Tools
 
-### لغات البرمجة
+### Programming Languages
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -47,7 +47,7 @@
 ![CapCut](https://img.shields.io/badge/-CapCut-black?style=flat-square&logo=tiktok&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white)
 
-## 📊 إحصائيات GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdowqtube5-cmyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -61,28 +61,28 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdowqtube5-cmyk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-## 📺 قناتي على YouTube
+## 📺 My YouTube Channel
 
-أشارك على قناتي محتوى تعليمي وتقني مفيد!
+I share educational and technical content on my channel!
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnqAtcPWiWP0qs1iHDZLi3g)
 
-اشترك الآن ولا تنسى تفعيل الجرس 🔔
+Subscribe now and don't forget to hit the bell 🔔
 
-## 📫 تواصل معي
+## 📫 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/-@abdowqtube-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdowqtube/)
 [![YouTube](https://img.shields.io/badge/-Abdowqtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnqAtcPWiWP0qs1iHDZLi3g)
 [![GitHub](https://img.shields.io/badge/-abdowqtube5--cmyk-181717?style=for-the-badge&logo=github)](https://github.com/abdowqtube5-cmyk)
 
-## 🌟 حقائق ممتعة
+## 🌟 Fun Facts
 
-- 🎮 أحب تطوير الألعاب البسيطة بـ Flutter
-- 🚀 دائماً أبحث عن تحديات برمجية جديدة
-- ☕ لا يمكنني البرمجة بدون القهوة
-- 🎨 أحب التصميم بقدر حبي للبرمجة
+- 🎮 I love developing simple games with Flutter
+- 🚀 Always looking for new programming challenges
+- ☕ Can't code without coffee
+- 🎨 I love design as much as I love coding
 
-## 💡 مقولة اليوم
+## 💡 Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
@@ -98,7 +98,6 @@
   
   ### "Code is like humor. When you have to explain it, it's bad." – Cory House
   
-  **⭐️ إذا أعجبك عملي، لا تنسى النجمة!**
+  **⭐️ If you like my work, don't forget to star!**
   
 </div>
-
