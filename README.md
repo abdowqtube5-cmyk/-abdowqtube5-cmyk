@@ -10,7 +10,7 @@
 
 <br>
 
-# Hi there, I'm Abdo 👋
+# Hi there, I'm Abdow 👋
 
 ## 🚀 About Me
 
