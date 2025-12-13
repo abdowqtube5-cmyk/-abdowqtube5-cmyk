@@ -20,7 +20,7 @@
 - 🌐 Experienced in **Enterprise Network Administration** & Services: **DHCP**, **DNS**, **WDS**, **WSUS**
 - 🎬 Expert Video Editor using **CapCut** & **DaVinci Resolve**
 - 🎥 **YouTube** Content Creator - Sharing my knowledge and experience with the community
-- 📍 From Damascus, Syria
+- 📍 From **Damascus, Syria** 🇸🇾
 - 🌱 Always learning new technologies and improving my skills
 
 ## 🎯 Projects
@@ -28,16 +28,6 @@
 🔭 Currently working on several Flutter projects and other diverse projects
 
 💡 I love building apps that solve real problems and provide great user experience
-
-### 🚀 Featured Projects
-
-<div align="center">
-  
-[![Login Page](https://github-readme-stats.vercel.app/api/pin/?username=abdowqtube5-cmyk&repo=login&theme=tokyonight&hide_border=true)](https://github.com/abdowqtube5-cmyk/login)
-
-**Login Page** - Beautiful and functional login page built with Flutter 📱
-
-</div>
 
 ## 🛠️ Technologies & Tools
 
@@ -69,10 +59,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdowqtube5-cmyk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdowqtube5-cmyk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdowqtube5-cmyk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 📺 My YouTube Channel
